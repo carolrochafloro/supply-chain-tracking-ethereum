@@ -1,6 +1,0 @@
-@ethereum_supply_chain_HostAddress = http://localhost:5110
-
-GET {{ethereum_supply_chain_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

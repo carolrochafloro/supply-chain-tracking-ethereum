@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/IwKOncJWmOYGL+BrzDMjLsYQAro9YyEUZke4QjVHynYSL/QCP8y1YF0DoydzWY7/hl+MDNW9pA7b+Flff2+NQ==",
+  "dgSpecHash": "ea+YLM0dr+0omEZgIOmCHBWLBDl87Oxr+69vVXDiNGWh+uPm290uzfS1DK8npowl6gMnjTmNDvU5n+nfxH6xUA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\carolina.floro\\Documents\\repos\\ethereum-supply-chain\\ethereum-supply-chain\\ethereum-supply-chain.csproj",
+  "projectFilePath": "C:\\Users\\carolina.floro\\Documents\\repos\\ethereum-supply-chain\\ethereum-supply-chain\\EthereumSupplyChain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\carolina.floro\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\carolina.floro\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

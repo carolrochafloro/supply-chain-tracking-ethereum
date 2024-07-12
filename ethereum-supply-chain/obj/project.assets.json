@@ -4509,9 +4509,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\carolina.floro\\Documents\\repos\\ethereum-supply-chain\\ethereum-supply-chain\\ethereum-supply-chain.csproj",
-      "projectName": "ethereum-supply-chain",
-      "projectPath": "C:\\Users\\carolina.floro\\Documents\\repos\\ethereum-supply-chain\\ethereum-supply-chain\\ethereum-supply-chain.csproj",
+      "projectUniqueName": "C:\\Users\\carolina.floro\\Documents\\repos\\ethereum-supply-chain\\ethereum-supply-chain\\EthereumSupplyChain.csproj",
+      "projectName": "EthereumSupplyChain",
+      "projectPath": "C:\\Users\\carolina.floro\\Documents\\repos\\ethereum-supply-chain\\ethereum-supply-chain\\EthereumSupplyChain.csproj",
       "packagesPath": "C:\\Users\\carolina.floro\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\carolina.floro\\Documents\\repos\\ethereum-supply-chain\\ethereum-supply-chain\\obj\\",
       "projectStyle": "PackageReference",

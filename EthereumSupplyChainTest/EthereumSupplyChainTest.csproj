@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ethereum-supply-chain\ethereum-supply-chain.csproj" />
+    <ProjectReference Include="..\ethereum-supply-chain\EthereumSupplyChain.csproj" />
   </ItemGroup>
 
   <ItemGroup>

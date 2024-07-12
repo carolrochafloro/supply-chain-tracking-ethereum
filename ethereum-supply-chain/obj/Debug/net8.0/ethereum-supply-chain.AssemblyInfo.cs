@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ethereum-supply-chain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eef3ccc7bbb40c2d3cf2a794cbe06effc978abaf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bac684e2f51e5c6090509fbb209e1f57ec4c9270")]
 [assembly: System.Reflection.AssemblyProductAttribute("ethereum-supply-chain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ethereum-supply-chain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
