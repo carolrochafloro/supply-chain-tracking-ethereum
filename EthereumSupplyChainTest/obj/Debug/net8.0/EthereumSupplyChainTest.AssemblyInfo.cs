@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ethereum-supply-chain")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("EthereumSupplyChainTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eef3ccc7bbb40c2d3cf2a794cbe06effc978abaf")]
-[assembly: System.Reflection.AssemblyProductAttribute("ethereum-supply-chain")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ethereum-supply-chain")]
+[assembly: System.Reflection.AssemblyProductAttribute("EthereumSupplyChainTest")]
+[assembly: System.Reflection.AssemblyTitleAttribute("EthereumSupplyChainTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

@@ -1,6 +1,119 @@
-﻿.vs/
+﻿# Build Folders
+bin/
+obj/
+
+# User-specific files
+*.rsuser
 *.suo
 *.user
 *.userosscache
 *.sln.docstates
+.vscode/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Mac
+.DS_Store
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+
+# Npm package files
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# NuGet Packages
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/[Pp]ackages/*
+# except build/, which is used as an MSBuild target.
+!**/[Pp]ackages/build/
+# Uncomment if necessary however generally it will be regenerated when needed
+#!**/[Pp]ackages/repositories.config
+
+# Windows credential store settings
+*.RDCrypto
+*.RDG
+
+# Local History for Visual Studio
+.vs/
+.vscode/
+
+# SQL Server files
+*.mdf
+*.ldf
+*.ndf
+
+# Business Intelligence projects
+*.rdl.data
+*.bim.layout
+*.bim_*.settings
+
+# Microsoft Azure Web App publish settings
+# PublishProfiles/
+
+# IIS
+# IIS Generated SSL
+*.pfx
+*.p12
+# User-specific
+ApplicationHost.config
+# IIS Express
+# IIS Express SSL
+localhost/
+# Logs
+iisexpress.log
+# LocalDb
+*.mdf
+*.ldf
+
+# Rider
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# Styles
+.bundle/
+*.sass-cache/
+
+# NPM & Bower
+node_modules/
+bower_components/
+jspm_packages/
+
+# IDEs
+.idea/
+*.suo
+*.sln.docstates
+
+# Entity Framework
+*.edmx.sql
+*.edmx.diagram
+
+# DotNet
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.log
+
+# Office temp files
+~$*
+
+# Publish
+wwwroot/
+
 .env
